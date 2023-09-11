@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priscillauribe" alt="priscillauribe" /></a> </p>
 
-- 🔭 I’m currently a full stack developer and Co-founder and COO of Brokol App. [brokol.app](brokol.app)
+- 🔭 I’m currently a full stack developer and Co-founder and COO of [brokol.app](brokol.app).
 
 - 💬 Ask me about **ruby, rails, javascript, css and html**
 
