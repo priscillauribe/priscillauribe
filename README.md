@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Priscilla</h1>
 <h3 align="center">A passionate, junior full-stack developer based in Vancouver, BC, Canada.</h3>
 
-- 🌱 I’m currently a full stack developer and Co-founder and COO of [brokol.app](https://www.brokol.app/).
+- 👩🏽‍💻 I’m currently a junior full stack developer
+
+- 🌱 I am also the Co-founder and COO of [brokol.app](https://www.brokol.app/).
 
 - 💬 Ask me about **ruby, rails, javascript, css and html**
 
