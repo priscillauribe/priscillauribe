@@ -3,6 +3,8 @@
 
 - 👩🏽‍💻 This summer, I became a junior full-stack developer!
 
+- 🎓 I just graduated UBC with a major in Economics.  
+
 - 🌱 I am also the Co-founder and COO of [brokol.app](https://www.brokol.app/).
 
 - 💬 Ask me about **ruby, rails, javascript, css and html**
