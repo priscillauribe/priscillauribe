@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Priscilla</h1>
 <h3 align="center">A passionate, junior full-stack developer based in Vancouver, BC, Canada.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priscillauribe" alt="priscillauribe" /></a> </p>
-
 - 🔭 I’m currently a full stack developer and Co-founder and COO of [brokol.app](https://www.brokol.app/).
 
 - 💬 Ask me about **ruby, rails, javascript, css and html**
