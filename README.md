@@ -5,5 +5,5 @@
 
 - 🌱 I am also the Co-founder and COO of [brokol.app](https://www.brokol.app/).
 
-- 🔭 I’m currently learning **React.js**
+- 👩‍💻 I’m currently learning **React.js**
 
